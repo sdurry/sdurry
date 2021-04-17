@@ -12,3 +12,7 @@
 - 👯 I’m looking to collaborate on building great & lean data teams
 - 🤔 I’m looking for help with teaching non-analytics people `basics` to enable self-service
 - 💬 Ask me about `analytics-as-code`, `building teams`, 
+
+#### I am hiring 🤝
+
+Learn about open positions in my team [here](https://of-data-insights.github.io/jobs/)
