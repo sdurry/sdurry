@@ -1,6 +1,5 @@
 <h3 align="center">👋 Hi there! I am Stephan</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/sdurry/">LinkedIn</a> •
   <a href="https://twitter.com/sdurry">Twitter</a> •
   <a href="https://medium.com/@s.durry">Medium</a> •
   <a href="https://wiki.sdurry.com/">Zettelkasten</a>
